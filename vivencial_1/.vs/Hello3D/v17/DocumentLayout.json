@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\Exericio8\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|solutionrelative:Exericio8\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|solutionrelative:shaders\\hello.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|solutionrelative:shaders\\hello.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello.vs",
+              "DocumentMoniker": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.vs",
+              "RelativeDocumentMoniker": "shaders\\hello.vs",
+              "ToolTip": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.vs",
+              "RelativeToolTip": "shaders\\hello.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T14:10:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hello.fs",
+              "DocumentMoniker": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.fs",
+              "RelativeDocumentMoniker": "shaders\\hello.fs",
+              "ToolTip": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\shaders\\hello.fs",
+              "RelativeToolTip": "shaders\\hello.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T23:40:55.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Origem.cpp",
+              "DocumentMoniker": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\Exericio8\\Origem.cpp",
+              "RelativeDocumentMoniker": "Exericio8\\Origem.cpp",
+              "ToolTip": "C:\\Users\\I521889\\Desktop\\uni\\AtividadesCG-main\\AtividadesCG-main\\vivencial_1\\Exericio8\\Origem.cpp*",
+              "RelativeToolTip": "Exericio8\\Origem.cpp*",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAwwAkBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T13:52:18.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
