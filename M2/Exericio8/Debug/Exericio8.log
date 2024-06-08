@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Exericio8\Origem.cpp(145,41): warning C4305: 'argumento': truncamento de 'double' para 'T'
+C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Exericio8\Origem.cpp(145,41): warning C4305:         with
+C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Exericio8\Origem.cpp(145,41): warning C4305:         [
+C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Exericio8\Origem.cpp(145,41): warning C4305:             T=float
+C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Exericio8\Origem.cpp(145,41): warning C4305:         ]
+  Exericio8.vcxproj -> C:\Users\I521889\Documents\GitHub\FundamentosCG\M2\Debug\Hello3D.exe

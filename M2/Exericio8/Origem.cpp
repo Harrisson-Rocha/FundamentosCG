@@ -67,7 +67,7 @@ int main()
 //#ifdef __APPLE__
 //	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 //#endif
-	const char* windowTitle = u8"Olá 3D - Vítor Marco";
+	const char* windowTitle = u8"Olá 3D";
 	// Criação da janela GLFW
 	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, windowTitle, nullptr, nullptr);
 	glfwMakeContextCurrent(window);
